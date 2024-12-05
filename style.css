@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(27, 27, 27);
+}
+header{background-color: rgb(195, 32, 65);padding: 30px;position: fixed;width:100%; opacity: 0.9;}
+
+section{margin-top: 1%;}
+
+.menu{text-align: center;}
+
+.menu a{display: inline-block;text-decoration:none;padding-left: 5%;padding-right:5%; font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(243, 245, 101);text-shadow: 4px 1px 1px rgb(9, 184, 137);}
+
+#menu:hover{color: rgb(107, 253, 214);}
+
+.banner{width: 96%;height: 300px;margin-bottom: 40%;}
+
+img{width: 100%;height: auto;margin-left: 2%;margin-top: 20%;}
+
+
+h1{font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(199, 185, 109);padding:5%;text-shadow: 4px 1px 1px rgb(222, 38, 75);margin-top: 25%;}
+
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(111, 220, 191);font-size: 14px;text-align: right;padding-left: 12%;padding-right: 12%;}
+
+footer{background-color: rgb(195, 32, 65);margin: 0px;padding: 2%;margin-top: 25%;}
+
+.footer p{font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(243, 245, 101);text-align: center;text-shadow: 4px 0.5px 1px rgb(9, 184, 137);font-size: 10px;}
